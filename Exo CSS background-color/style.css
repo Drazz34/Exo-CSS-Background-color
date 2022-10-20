@@ -1,0 +1,22 @@
+* {
+    margin-bottom: 25px;
+}
+
+.carre {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.rectangle {
+    width: 200px;
+    height: 75px;
+    background-color: blue;
+}
+
+.cercle {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
